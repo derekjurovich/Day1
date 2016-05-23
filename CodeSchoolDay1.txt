@@ -1,0 +1,14 @@
+git add
+git status
+git add. // adds all files to staging
+git add *.html // .file extension add all of thos types
+git commit -m "message of what you did" // saves changes and associate with a message
+git config --global user.email " email "
+git config --global user.name "name"
+/* creating branches git checkout -b <branch name>
+ getting command line to show current branch name
+ flow in general add commit push establish remotr origin 
+ git remote add origin //set this every new repository
+ every new folder needs a git init // every time for a new folder */
+ // create a folder?? 
+ 
