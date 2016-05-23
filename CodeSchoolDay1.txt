@@ -11,4 +11,5 @@ git config --global user.name "name"
  git remote add origin //set this every new repository
  every new folder needs a git init // every time for a new folder */
  // create a folder?? 
+ some notes
  
