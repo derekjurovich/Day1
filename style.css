@@ -4,9 +4,89 @@ if member of the class with properties but just need to change one aspect than d
 changes that one thing
 style =" is even more specific"
 specificity order: class then class id then id then style; Great notes!  One more change
+
 */
 
+body {
+ 	background-color:#222222;
+ 	margin: 0;
+}
+
+i {
+
+	color:gray;
+
+
+}
+
 h1 {
+	color: #fff;
+	font-size: 60px;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0px;
+
+}
+
+h2
+{
+	color:gray;
+	font-size: 20px;
+	font-family: 'Slabo 27px', serif;
+	margin: 0px;
+
+}
+
+img {
+width: 100%;
+height: 50%;
+margin: 
+
+}
+
+
+
+.columnLeft  {
+
+
+  float: left;
+  width: 49vw;
+  height: 100vh;
+
+}
+
+.columnRight  {
+
+  float: left;
+   width: 49vw;
+  height: 100vh;
+
+}
+
+.textBlock {
+
+width: 25vw;
+height: 25vh;
+margin: auto;
+margin-top: 37.5vh;
+text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*h1 {
 	font-size: 30px; // percentage or by height or by pixels ... sometimes pixels or scale em is scaling 
 	//measurement EM 
 	font-family: cursive;
@@ -41,7 +121,7 @@ img {
 	position: fixed;
 	top: 20px;
 	left: 20px;
-}
+}*/
 /*absolute = form top of page or fixed = stays in position or relative = moves from where it naturally falls
 pecentage based on parent container on divs make sue if using pecentage to container that cotainer is defined
 margin: auto; is something that can auto center. 
